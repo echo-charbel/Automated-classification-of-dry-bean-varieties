@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.8.0
+imbalanced-learn==0.14.1
+matplotlib==3.10.8
+seaborn
+ipykernel
+ucimlrepo==0.0.7
